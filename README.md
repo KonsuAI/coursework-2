@@ -1,14 +1,15 @@
-CM40179 Entrepreneurship Coursework 2: Business Plan Execution
+# CM40179 Entrepreneurship Coursework 2: Business Plan Execution
+
 This repository contains all of the finalised files for submission of coursework 2 for the CM40179 Entrepreneurship module.
 
-Repository Structure
+#### Repository Structure
 
-report.md:
+- `report.md`:
 
-business-execution-journal.md:
+- `business-execution-journal.md`:
 
-images/: Contains images used within the repo's markdown files.
+- `images/`: Contains images used within the above markdown files.
 
-gcf.pdf: Contains the group contribution form for our team.
+- `gcf.pdf`: Contains the group contribution form for our team.
 
-appendix/: Contains supplementary material.
+- `appendix/`: Contains supplementary material.
