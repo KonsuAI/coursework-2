@@ -4,12 +4,12 @@ This repository contains all of the finalised files for submission of coursework
 
 #### Repository Structure
 
-- `report.md`:
+- [`report.md`](./report.md):
 
-- `business-execution-journal.md`:
+- [`business-execution-journal.md`](./business-execution-journal.md):
 
 - `images/`: Contains images used within the above markdown files.
 
-- `gcf.pdf`: Contains the group contribution form for our team.
+- [`gcf.pdf`](./gcf.pdf): Contains the group contribution form for our team.
 
 - `appendix/`: Contains supplementary material.
