@@ -4,9 +4,11 @@ This repository contains all of the finalised files for submission of coursework
 
 #### Repository Structure
 
-- [`report.md`](./report.md):
+- [`main-report.md`](./report.md): The main report for this coursework, linking all other sections together.
 
-- [`business-execution-journal.md`](./business-execution-journal.md):
+- [`business-execution-journal.md`](./business-execution-journal.md): Our business execution journal, detailing all that we've managed to achieve.
+
+- [`video-report.md`](./video-report.md): A supplementary report to the video, containing extra details about our target customers and unique selling proposition.
 
 - `images/`: Contains images used within the above markdown files.
 

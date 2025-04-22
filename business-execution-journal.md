@@ -39,7 +39,7 @@ Our funding approach balances fiscal discipline with strategic growth. At this e
 
 To accelerate development, we’re combining internal resources with targeted angel investment. These funds will cover critical costs, such as infrastructure, prototyping, and user acquisition. This will enable the team to build Konsu full-time while remaining capital-efficient.
 
-In parallel, we’re pursuing non-dilutive funding via UK government programs such as the Flexible AI Upskilling Fund, Innovate UK, and youth enterprise grants. These sources support team development and AI infrastructure without diluting equity or control. We’ve also applied to Y-Combinator, hoping to gain access to a global network of mentors, technical founders, and early-stage investors. 
+In parallel, we’re pursuing non-dilutive funding via UK government programs such as the Flexible AI Upskilling Fund, Innovate UK, and youth enterprise grants. These sources support team development and AI infrastructure without diluting equity or control. We’ve also applied to Y-Combinator, hoping to gain access to a global network of mentors, technical founders, and early-stage investors.
 
 Once our MVP launches and we demonstrate traction, we’ll pursue our first formal funding round. At that point, we’ll seek strategic investors, particularly those with expertise in AI, travel tech, or consumer platforms who align with our long-term vision and can guide Konsu from product-market fit to global scale.
 
