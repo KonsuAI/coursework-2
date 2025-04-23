@@ -15,5 +15,3 @@ This repository contains all of the finalised files for submission of coursework
 - `images/`: Contains images used within the above markdown files.
 
 - [`gcf.pdf`](./gcf.pdf): Contains the group contribution form for our team.
-
-- `appendix/`: Contains supplementary material.
