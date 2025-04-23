@@ -35,14 +35,10 @@ The business execution journal summarises all the steps we've taken to execute o
 
 To showcase Konsy to new potential customers and investors, we created a simple but effective product video. It aims to highlight key groups of potential customers, and show how Konsu would positively impact their holiday planning experience.
 
-The video can be found on our YouTube channel here: []()
+The video can be found on our YouTube channel here: [Konsu Kickstarter Video](https://www.youtube.com/watch?v=_RD8wT8pdGQ)
 
 We also supply a supplementary report, covering more details related to our video and idea, which can be found [here `./video-report.md`](./video-report.md).
 
 # Contributions Split
 
 Please see our [Group Contribution Form for this coursework `./gcf.pdf`](./gcf.pdf).
-
-# Appendix
-
-Please see our [Appendix folder `./appendix`](./appendix).
